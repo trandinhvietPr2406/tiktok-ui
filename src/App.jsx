@@ -6,8 +6,6 @@ function App() {
   return (
     <>
       <h1>Hello</h1>
-      <h2>Trần Đình Việt</h2>
-      <h3>AAAA</h3>
     </>
   )
 }
