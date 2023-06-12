@@ -1,7 +1,12 @@
+// @import "normalize.css";
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap');
 
 :root {
   --primary: rgb(239, 41, 80)
+}
+
+* {
+    box-sizing: border-box;
 }
 
 html {
